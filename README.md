@@ -5,6 +5,6 @@
 trying to do all the html and css of instagram feel free to add something to this repository💁 <br>
 
 <strong><h2> View on "pages" </h2> <br></strong>
-link: https://thisruan.github.io/instagram/
+link: https://isruan.github.io/instagram/
 
 thanks❤️
